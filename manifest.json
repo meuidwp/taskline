@@ -1,0 +1,18 @@
+{
+  "name": "TaskLine",
+  "short_name": "TaskLine",
+  "description": "Seus hábitos, suas tarefas, mais produtividade",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0c0c0f",
+  "theme_color": "#7c5cfc",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "TaskLine.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
